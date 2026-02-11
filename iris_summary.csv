@@ -1,0 +1,19 @@
+section,variable,value
+correlation,sepal_length vs sepal_width,-0.45178220752699605
+correlation,sepal_length vs petal_length,0.752329864333612
+correlation,sepal_length vs petal_width,0.7382434892711385
+correlation,sepal_width vs petal_length,-0.5153030832015026
+correlation,sepal_width vs petal_width,-0.4596918716475914
+correlation,petal_length vs petal_width,0.9434669077936447
+mean,sepal_length,5.765734529557146
+median,sepal_length,5.7779215391091165
+std,sepal_length,0.7353031454302267
+mean,sepal_width,3.079448671911658
+median,sepal_width,3.0962272571352503
+std,sepal_width,0.46503531937853027
+mean,petal_length,3.7507961217563106
+median,petal_length,4.291721243274351
+std,petal_length,1.7235378082206898
+mean,petal_width,1.194936760899236
+median,petal_width,1.3723589709904553
+std,petal_width,0.7437080107304144
